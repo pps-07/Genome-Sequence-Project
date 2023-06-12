@@ -1,4 +1,5 @@
 # Genome-Sequence-Project
+## Worked on Genome Sequence Analysis using Gene Sequences
 ## Model Used
 ### KNN for Covid Case Analysis
 #### Worked on the data of 1st COVID-19 Patient found in China
